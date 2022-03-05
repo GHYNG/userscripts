@@ -12,6 +12,7 @@
 // --------------------------------------------------
 // @namespace   igb
 // @include     /https:\/\/docs\.oracle\.com\/en\/java\/javase\/[1-9][0-9]\/docs\/api\/.*/
+// @include	/https:\/\/papermc\.io\/javadocs\/paper\/[1-9]\.[0-9]\/.*/
 // @run-at      document-idle
 // @grant       none
 // ==/UserScript==
