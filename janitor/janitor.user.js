@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        JANITOR – Java API Navigation Is The Only Rescue
+// @name        JANITOR – Java API Navigation Is The Only Rescue (Paper Doc extention)
 // @description Inserts a navigation tree for modules, packages and types (interfaces, classes, enums, exceptions, errors, annotations) into the Javadoc pages of Java 11+.
 // @version     21.08.08-0535
 // @author      Gerold 'Geri' Broser <https://stackoverflow.com/users/1744774>
